@@ -19,14 +19,7 @@ Follow the guide below to understand the project structure and navigate through 
 Make sure you have the following installed on your machine:
 Node.js
 npm
-MongoDB
-
-### Getting Started
-Clone the repository:
-bash
-Copy code
-
-git clone [https://github.com/LordMashh/Bookstore-Next.git](https://github.com/LordMashh/Bookstore-Next.git)
+Mongo
 
 Change into the project directory:
 bash,
@@ -67,6 +60,6 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 
 ---
